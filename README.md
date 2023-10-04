@@ -11,5 +11,5 @@
 
 ### Author
 
-[Linkedin](https://www.linkedin.com/in/ashraf-emad/)
-[Live Demo](https://launch-your-business.netlify.app/)
+- [Linkedin](https://www.linkedin.com/in/ashraf-emad/)
+- [Live Demo](https://launch-your-business.netlify.app/)
